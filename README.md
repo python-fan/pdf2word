@@ -20,3 +20,9 @@ pip install -r requirements.txt
 
 * 修改config.cfg文件，指定存放pdf和word文件的文件夹，以及同时工作的进程数
 * 执行```python main.py```
+
+**欢迎Star**
+
+## License
+
+采用 MIT 开源许可证
