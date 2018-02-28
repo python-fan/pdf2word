@@ -23,6 +23,12 @@ pip install -r requirements.txt
 
 **欢迎Star**
 
+## Python票友
+
+欢迎加入Python票友技术讨论群
+
+![image](http://ww1.sinaimg.cn/mw690/6ae0adaely1fowds9swwtj20l20l0abc.jpg)
+
 ## License
 
 采用 MIT 开源许可证
