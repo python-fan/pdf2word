@@ -23,11 +23,9 @@ pip install -r requirements.txt
 
 **欢迎Star**
 
-## Python票友
+## Python私房菜
 
-欢迎加入Python票友技术讨论群
-
-![image](http://ww1.sinaimg.cn/mw690/6ae0adaely1fowds9swwtj20l20l0abc.jpg)
+![](http://ww1.sinaimg.cn/large/6ae0adaely1foxc0cfkjsj2076076aac.jpg)
 
 ## License
 
