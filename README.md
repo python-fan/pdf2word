@@ -13,8 +13,8 @@ git clone git@github.com:simpleapples/pdf2word.git
 
 ```python
 cd pdf2word
-pyvenv venv
-source venv/bin/active
+python3 -m venv venv  
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
