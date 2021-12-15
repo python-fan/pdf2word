@@ -3,3 +3,8 @@
 *.egg-info
 
 .DS_Store
+.vscode
+.gitignore
+pdf
+word
+venv

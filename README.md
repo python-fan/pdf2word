@@ -2,6 +2,8 @@
 
 60行代码实现多线程PDF转Word
 
+> 新版本基于https://github.com/dothinking/pdf2docx实现
+
 ## 使用方法
 
 * clone或下载项目到本地
@@ -13,13 +15,35 @@ git clone git@github.com:simpleapples/pdf2word.git
 
 ```python
 cd pdf2word
-python3 -m venv venv  
+python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
 
 * 修改config.cfg文件，指定存放pdf和word文件的文件夹，以及同时工作的进程数
 * 执行```python main.py```
+
+## ModuleNotFoundError: No module named '_tkinter' 报错处理
+
+### macOS环境
+
+1. 安装homebrew
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+2. 使用homebrew安装tkinter
+```bash
+brew install python-tk
+```
+
+### Linux环境
+
+以ubuntu为例
+
+```bash
+sudo apt install python3-tk
+```
 
 **欢迎Star**
 
