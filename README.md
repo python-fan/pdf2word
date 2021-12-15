@@ -2,7 +2,7 @@
 
 ~~60行~~40行代码实现多进程PDF转Word
 
-> 新版本基于https://github.com/dothinking/pdf2docx实现
+> 新版本基于[https://github.com/dothinking/pdf2docx](https://github.com/dothinking/pdf2docx)实现
 
 ## 使用方法
 
