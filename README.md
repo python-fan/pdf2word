@@ -1,6 +1,6 @@
 # pdf2word
 
-60行代码实现多线程PDF转Word
+~~60行~~40行代码实现多进程PDF转Word
 
 > 新版本基于https://github.com/dothinking/pdf2docx实现
 
