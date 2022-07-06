@@ -1,6 +1,6 @@
 fire==0.4.0
 fonttools==4.28.3
-lxml==4.7.1
+lxml==4.9.1
 numpy==1.21.4
 opencv-python==4.5.4.60
 pdf2docx==0.5.2
