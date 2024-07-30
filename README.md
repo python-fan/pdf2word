@@ -16,8 +16,18 @@ git clone git@github.com:simpleapples/pdf2word.git
 ```python
 cd pdf2word
 python3 -m venv venv
+
+# Linux
 source venv/bin/activate
+
+# Windows
+venv\Scripts\activate
+
+# Python < 3.10
 pip install -r requirements.txt
+
+# Python 3.10 or later
+pip install -r requirements_3_10.txt
 ```
 
 * 修改config.cfg文件，指定存放pdf和word文件的文件夹，以及同时工作的进程数
