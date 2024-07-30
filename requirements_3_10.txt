@@ -1,0 +1,10 @@
+fire==0.4.0
+fonttools==4.28.3
+lxml==4.7.1
+numpy==1.21.4
+opencv-python==4.10.0.84
+pdf2docx==0.5.8
+PyMuPDF==1.19.3
+python-docx==0.8.11
+six==1.16.0
+termcolor==1.1.0
