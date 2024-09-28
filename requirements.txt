@@ -1,5 +1,5 @@
 fire==0.4.0
-fonttools==4.28.3
+fonttools==4.43.0
 lxml==4.7.1
 numpy==1.21.4
 opencv-python==4.5.4.60
